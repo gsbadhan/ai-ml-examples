@@ -1,5 +1,5 @@
 # ai-ml-examples
-ai-ml example
+This will cover ai-ml models example
 
 ### For jupyter workspace
 1. Folder - /jupyter_workspace
