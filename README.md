@@ -6,3 +6,18 @@ This will cover ai-ml models example
 2. Launch jupyter - jupyter notebook
 
 ###
+Models:
+
+Single variable linear regression
+
+Multiple variable linear regression
+
+Logistic regression
+
+DecisionTree
+
+RandomForest
+
+Support vector machine - SVM
+
+Convolutional neural network (CNN)
