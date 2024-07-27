@@ -2,7 +2,7 @@
 ai-ml example
 
 ### For jupyter workspace
-Folder - /jupyter_workspace
-Laucnh jupyter - jupyter notebook
+1. Folder - /jupyter_workspace
+2. Launch jupyter - jupyter notebook
 
 ###
